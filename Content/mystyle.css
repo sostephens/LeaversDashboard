@@ -1,0 +1,257 @@
+.Mainbody 
+{
+    padding: 20px;
+    margin-bottom: 0px;
+    
+}
+.MyDate 
+{
+    width: 100px;
+    margin-left: 30px;
+    margin-right: 60px;
+}
+
+.row 
+{
+    width:800px;
+    height:65px;
+}
+
+.col1 
+{
+    margin-top:30px;
+    width: 210px;
+    float:left;
+    height:auto;
+}
+
+.col2
+{
+    width:400px;
+    float:right;
+    margin-right:190px;
+}
+
+.lblStatus
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.ddlstStatus
+{
+    width: 280px;
+    margin-left: 10px;
+}
+
+.lblReference 
+{
+    margin-top: 20px;
+}
+
+.txtbxReference 
+{
+    width: 20px;
+    margin-right: 10px;
+}
+
+.lblStatus 
+{
+    margin-top: 20px;
+}
+
+.ddlstStatus 
+{
+    width: 200px;
+    margin-left: 1px;
+    margin-right: 20px;
+}
+
+.lblRequestType 
+{
+    margin-left: 20px;
+    margin-right: 1px;
+    margin-top: 20px;
+}
+
+.ddlstRequestType 
+{
+    width: 230px;
+    margin-left: 10px;
+}
+
+.button
+{
+    width: 100px;
+    margin-left: 1000px;
+}
+
+.btnFVDSearch 
+{
+    width: 200px;
+    margin-left: 100px;
+}
+
+.btnExport 
+{
+    width: 200px;
+    margin-left: 100px;
+}
+
+.lblTeam 
+{
+    margin-left: 20px;
+    margin-right: 1px;
+    margin-top: 20px;
+}
+
+.MyExcel {
+    margin-right: 733px;
+}
+
+.MyLink
+{
+    margin-left: 1050px;
+}
+
+.grvFVDashboard 
+{
+    background-color: #fff;
+    margin: 5px 6px 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+    font-family: Calibri;
+    color: #474747;
+}
+    .grvFVDashboard td 
+    {
+        padding: 2px;
+        border: solid 1px #c1c1c1;
+    }
+
+    .grvFVDashboard th 
+    {
+        padding: 4px 2px;
+        color: #fff;
+        background: #5c5c5c url(Images/grid-header.png) repeat-x top;
+        border-left: solid 1px #525252;
+        font-size: 0.9em;
+    }
+
+    .grvFVDashboard .alt 
+    {
+        background: #fcfcfc url(Images/grid-alt.png) repeat-x top;
+    }
+
+    .grvFVDashboard .pgr 
+    {
+        background: #363670 url(Images/grid-pgr.png) repeat-x top;
+    }
+
+        .grvFVDashboard .pgr table 
+        {
+            margin: 3px 0;
+        }
+
+        .grvFVDashboard .pgr td 
+        {
+            border-width: 0;
+            padding: 0 6px;
+            border-left: solid 1px #666;
+            font-weight: bold;
+            color: #fff;
+            line-height: 12px;
+        }
+
+        .grvFVDashboard .pgr a 
+        {
+            color: Gray;
+            text-decoration: none;
+        }
+
+        .grvFVDashboard a:hover 
+        {
+            color: #000;
+            text-decoration: none;
+        }
+
+.grvFVDashboardBodyFullView 
+{
+    padding-left: 50px;
+    padding-right: 50px;
+} 
+
+.Grid 
+{
+    background-color: #fff;
+    margin: 5px 150px 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+    font-family: Calibri;
+    color: #474747;
+}
+
+    .Grid td 
+    {
+        padding: 2px;
+        border: solid 1px #c1c1c1;
+    }
+
+    .Grid th 
+    {
+        padding: 4px 2px;
+        color: #fff;
+        background: #5c5c5c url(Images/grid-header.png) repeat-x top;
+        border-left: solid 1px #525252;
+        font-size: 0.9em;
+    }
+
+    .Grid .alt 
+    {
+        background: #fcfcfc url(Images/grid-alt.png) repeat-x top;
+    }
+
+    .Grid .pgr 
+    {
+        background: #363670 url(Images/grid-pgr.png) repeat-x top;
+    }
+
+        .Grid .pgr table 
+        {
+            margin: 3px 0;
+        }
+
+        .Grid .pgr td 
+        {
+            border-width: 0;
+            padding: 0 6px;
+            border-left: solid 1px #666;
+            font-weight: bold;
+            color: #fff;
+            line-height: 12px;
+        }
+
+        .Grid .pgr a 
+        {
+            color: Gray;
+            text-decoration: none;
+        }
+
+        .Grid .pgr a:hover 
+        {
+            color: #000;
+            text-decoration: none;
+        }
+
+.GridBody 
+{
+    padding-left: 150px;
+}
+
+.lblUsername 
+{
+    color: #fff;
+    font-family: Calibri;
+    font-weight: bold;
+}
